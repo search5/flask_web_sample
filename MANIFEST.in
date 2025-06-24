@@ -1,2 +1,2 @@
-recursive-include flask_web/templates *
-recursive-include flask_web/static *
+recursive-include src/flask_web/templates *
+recursive-include src/flask_web/static *
